@@ -57,13 +57,7 @@
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
+
 
 <p align="center">
   <!-- Contribution Streak -->
@@ -75,10 +69,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true" />
 </p>
 
-<p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
-</p>
+
 
 ---
 
@@ -94,7 +85,7 @@
 ---
 
 ## 📄 Resume  
-🎯 [**Download My Resume**](#) *(Add your Google Drive or Portfolio link here)*  
+🎯 [**Download My Resume**](#) 
 
 ---
 
