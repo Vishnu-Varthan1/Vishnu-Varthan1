@@ -47,24 +47,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=(https://github.com/Vishnu-Varthan1)&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=(https://github.com/Vishnu-Varthan1)&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=(https://github.com/Vishnu-Varthan1)&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=(https://github.com/Vishnu-Varthan1)&theme=react-dark" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
-</p>
-
----
 
 ## 🏆 Highlights That Make Me Unique  
 
