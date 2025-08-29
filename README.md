@@ -1,4 +1,4 @@
-
+<!-- 🚀 Ultimate GitHub Profile README for Vishnu Varthan -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=200&section=header&text=Vishnu%20Varthan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -38,16 +38,12 @@
 
 ## 🚀 Projects That Define Me  
 
- 
+🔹 [**AI Resume Analyzer**](#) → AI-powered resume insights & ATS feedback  
 🔹 [**Real Estate Website**](#) → Modern platform for property deals & investments  
 🔹 [**Healthcare Dashboard**](#) → Community health monitoring with React + Redux  
 🔹 [**Portfolio Website**](#) → My personal brand in code  
 
 ---
-
-
-
-
 
 ## 🏆 Highlights That Make Me Unique  
 
@@ -56,6 +52,33 @@
 ✔️ Knowledge of **real estate domain** (business + tech synergy)  
 ✔️ **Entrepreneurial spirit** → learning, branding & digital innovation  
 ✔️ Active in **chess, journalism, and strategic thinking**  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -71,7 +94,7 @@
 ---
 
 ## 📄 Resume  
-🎯 [**Download My Resume**](#) 
+🎯 [**Download My Resume**](#) *(Add your Google Drive or Portfolio link here)*  
 
 ---
 
