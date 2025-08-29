@@ -59,27 +59,26 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Varthan1&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Varthan1&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-Varthan1&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu-Varthan1&theme=react-dark&bg_color=0d1117&hide_border=true" />
 </p>
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishnu-Varthan1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
-
 
 ## 📬 Let’s Connect  
 
