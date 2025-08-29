@@ -48,16 +48,16 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=(https://github.com/Vishnu-Varthan1)&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=(https://github.com/Vishnu-Varthan1)&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=(https://github.com/Vishnu-Varthan1)&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=(https://github.com/Vishnu-Varthan1)&theme=react-dark" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@
 ---
 
 ## 📄 Resume  
-🎯 [**Download My Resume**](#) *(Insert your Google Drive / Portfolio link here)*  
+🎯 [**Download My Resume**](#) 
 
 ---
 
