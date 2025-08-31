@@ -38,7 +38,7 @@
 
 | Project Name           | Description                                      |
 |------------------------|--------------------------------------------------|
-| **AI Resume Analyzer** | AI-powered tool for resume feedback & ATS optimization |
+
 | **Real Estate Website**| Platform for property deals & investments        |
 | **Healthcare Dashboard**| Community health insights with React + Redux     |
 | **Portfolio Website**   | A showcase of my brand and work in code         |
