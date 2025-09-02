@@ -40,7 +40,7 @@
 |------------------------|--------------------------------------------------|
 
 | **Real Estate Website**| Platform for property deals & investments        |
-| **Healthcare Dashboard**| Community health insights with React + Redux     |
+| **Healthcare Dashboard**| Community health insights with React + Redux  interactive    |
 | **Portfolio Website**   | A showcase of my brand and work in code         |
 
 ---
