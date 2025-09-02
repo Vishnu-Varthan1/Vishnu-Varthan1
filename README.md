@@ -57,8 +57,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishnu-Varthan1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://streak-stats.demolab.com?user=Vishnu-Varthan1&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
 </p>
+
 
 ---
 
