@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-Varthan1&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-Varthan1&theme=tokyonight" height="150"/> 
 </p>
 
 <p align="center">
