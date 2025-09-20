@@ -73,6 +73,9 @@
 - Interests: Chess, journalism, and more  
 
 ---
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Vishnu-Varthan1/Vishnu-Varthan1/blob/output/snake.svg)
+
 
 ##  Connect with Me
 
