@@ -66,7 +66,7 @@
 ---
 ## 🐍 Contribution Snake
 
-![GitHub Snake Light](https://github.com/Vishnu-Varthan1/Vishnu-Varthan1/blob/output/snake.svg#gh-light-mode-only)
+
 ![GitHub Snake Dark](https://github.com/Vishnu-Varthan1/Vishnu-Varthan1/blob/output/snake-dark.svg#gh-dark-mode-only)
 
 
