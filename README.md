@@ -86,8 +86,3 @@
   <img src="https://komarev.com/ghpvc/?username=Vishnu-Varthan1&label=Profile%20views&color=0e75b6&style=flat" alt="Vishnu-Varthan1" />
 </p>
 
-
-##  Resume
-
-```markdown
-[Download My Resume](#)
