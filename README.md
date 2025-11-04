@@ -1,3 +1,29 @@
+<!-- 🛑 GOD MODE ACTIVATED -->
+
+## 🧨 GOD MODE — Glitch Intro
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2400&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=GOD+MODE+%F0%9F%94%A5+%E2%80%94+VISHNU+VARTHAN;Initializing+Neon+Core...;Loading+AI+Modules...;Deploying+Futuristic+UI..." />
+</p>
+
+### 🖥️ Futuristic Terminal (Click to open)
+<details>
+  <summary><b>▶ LAUNCH TERMINAL</b></summary>
+
+```bash
+$ boot --profile vishnu_dark --mode hyper
+> Loading neural weights ......... OK
+> Mounting projects .............. OK
+> Spinning up services ........... AI | API | DB | Realtime
+> Security audit ................. PASSED
+> Status: ONLINE  ▓▓▓▓▓▓▓▓▓▓ 100%
+
+$ motto
+"Precision. Logic. Evolution."
+
+$ next-steps
+1) Ship features that matter
+2) Learn aggressively
+3) Scale with discipline
 
 
 <img width="986" height="456" alt="image" src="https://github.com/user-attachments/assets/189da7b0-3d64-48a0-b4e9-9030bbb58563" /><!-- 🚀 Advanced GitHub Profile README for Vishnu Varthan -->
@@ -7,23 +33,7 @@
 </p>
 
 ---
-# 🚀 Vishnu Varthan — Innovator • Developer • Real Estate Learner • Creator
 
-```ts
-// 🌟 VishnuVarthan.ts — Writing my own story with code & creativity.
-while (me.isGrowing()) {
-    learnNewSkills();          // 📘 Leveling up in Web Dev, AI, ML, DSA & Real Estate.
-    createImpactfulProjects(); // 🛠️ Building solutions that solve real problems.
-    exploreIdeas();            // 🔍 Searching for opportunities to innovate.
-
-    if (roadblocksAppear()) {
-        stayFocused();         // 🎯 Maintaining discipline & consistency.
-        evolveMindset();       // 🔄 Adapting, improving & staying resilient.
-    }
-
-    pushBoundaries();          // 🚀 Breaking limits & achieving new milestones.
-}
-```
 
 ## 🧑‍💼 About Me
 
