@@ -1,4 +1,4 @@
-<!-- 🚀 Advanced GitHub Profile README for Vishnu Varthan -->
+<img width="986" height="456" alt="image" src="https://github.com/user-attachments/assets/189da7b0-3d64-48a0-b4e9-9030bbb58563" /><!-- 🚀 Advanced GitHub Profile README for Vishnu Varthan -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=200&section=header&text=Vishnu%20Varthan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -12,6 +12,23 @@
 </p>
 
 ---
+# 🚀 Vishnu Varthan — Innovator • Developer • Real Estate Learner • Creator
+
+```ts
+// 🚀 Empowering my journey with innovative software solutions.
+while (!SuccessAchieved) {
+    discoverOpportunities();   // 🔍 Find areas to improve with technology.
+    buildCreativeProjects();   // ✨ Develop modern, real-world solutions.
+    learnAndGrow();            // 📚 Daily improvement in Web Dev, AI, ML & DSA.
+
+    if (challengesArise()) {
+        adaptAndInnovate();    // 💡 Solve problems with creative thinking.
+    }
+
+    deliverResults();          // 🌟 Provide efficient and scalable outcomes.
+}
+```
+
 
 ## 🧑‍💼 About Me
 
