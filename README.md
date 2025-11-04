@@ -8,20 +8,20 @@
 # 🚀 Vishnu Varthan — Innovator • Developer • Real Estate Learner • Creator
 
 ```ts
-// 🚀 Empowering my journey with innovative software solutions.
-while (!SuccessAchieved) {
-    discoverOpportunities();   // 🔍 Find areas to improve with technology.
-    buildCreativeProjects();   // ✨ Develop modern, real-world solutions.
-    learnAndGrow();            // 📚 Daily improvement in Web Dev, AI, ML & DSA.
+// 🌟 VishnuVarthan.ts — Writing my own story with code & creativity.
+while (me.isGrowing()) {
+    learnNewSkills();          // 📘 Leveling up in Web Dev, AI, ML, DSA & Real Estate.
+    createImpactfulProjects(); // 🛠️ Building solutions that solve real problems.
+    exploreIdeas();            // 🔍 Searching for opportunities to innovate.
 
-    if (challengesArise()) {
-        adaptAndInnovate();    // 💡 Solve problems with creative thinking.
+    if (roadblocksAppear()) {
+        stayFocused();         // 🎯 Maintaining discipline & consistency.
+        evolveMindset();       // 🔄 Adapting, improving & staying resilient.
     }
 
-    deliverResults();          // 🌟 Provide efficient and scalable outcomes.
+    pushBoundaries();          // 🚀 Breaking limits & achieving new milestones.
 }
 ```
-
 
 ## 🧑‍💼 About Me
 
