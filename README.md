@@ -1,6 +1,5 @@
-<!-- 🛑 GOD MODE ACTIVATED -->
 
-## 🧨 GOD MODE — Glitch Intro
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2400&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=GOD+MODE+%F0%9F%94%A5+%E2%80%94+VISHNU+VARTHAN;Initializing+Neon+Core...;Loading+AI+Modules...;Deploying+Futuristic+UI..." />
 </p>
