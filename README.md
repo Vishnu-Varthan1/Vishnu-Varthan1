@@ -4,13 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=200&section=header&text=Vishnu%20Varthan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h2 align="center">👋 Hey, I'm Vishnu Varthan</h2>
-<h3 align="center">Full-Stack Developer | AI Innovator | Cybersecurity Explorer | Real Estate Tech Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&width=700&lines=Turning+Ideas+into+Code;Solving+Job-Skill+Mismatch+with+AI;Blending+Tech+%26+Real+Estate;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
-
 ---
 # 🚀 Vishnu Varthan — Innovator • Developer • Real Estate Learner • Creator
 
