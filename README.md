@@ -6,7 +6,7 @@
 
 <!-- 🛑 GOD MODE ACTIVATED -->
 
-## 🧨 GOD MODE — Glitch Intro
+## 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2400&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=GOD+MODE+%F0%9F%94%A5+%E2%80%94+VISHNU+VARTHAN;Initializing+Neon+Core...;Loading+AI+Modules...;Deploying+Futuristic+UI..." />
@@ -122,7 +122,7 @@ while (vishnu.isImproving()) {
 
 ---
 
-## 🏆 **Professional Achievements (Auto-Synced)**
+## 🏆 **Professional Achievements **
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vishnu-Varthan1&theme=darkhub&margin-w=10&no-bg=true" />
@@ -138,29 +138,10 @@ while (vishnu.isImproving()) {
 
 ---
 
-## 🔥 **Pinned Projects — Clean, Stable & Professional**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu-Varthan1&repo=AI-Resume-Analyzer&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu-Varthan1&repo=RealEstate-Platform&theme=github_dark" />
-</p>
 
 ---
 
-## ⚡ **Daily System Routine — Professional Edition**
 
-```
-🌅 Morning:  Meditation • Chess • Planning
-📘 Daytime:  College • Full-Stack Dev • Real Estate Learning
-🧠 Evening:  AI/ML • DSA • System Design
-🌙 Night:    Reading • Ideation • Strategy Building
-```
-
----
-
-## 🐍 **Contribution Snake (Dark Theme)**
-
-![GitHub Snake](https://github.com/Vishnu-Varthan1/Vishnu-Varthan1/blob/output/snake-dark.svg)
 
 ---
 
