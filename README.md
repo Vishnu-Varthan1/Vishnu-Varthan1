@@ -1,4 +1,4 @@
-<!-- ✅ DARK FUTURISTIC PROFESSIONAL README FOR VISHNU VARTHAN -->
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00E5FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Real+Estate+Tech+Learner;Cybersecurity+%7C+Problem+Solver;Dark+Futuristic+Professional+Profile" />
