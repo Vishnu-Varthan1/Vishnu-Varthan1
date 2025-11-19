@@ -117,7 +117,7 @@ while (vishnu.isImproving()) {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Varthan1&layout=compact&theme=github_dark" height="150" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-Varthan1&theme=github-dark" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Vishnu-Varthan1&theme=github-dark" height="160" />
 </p>
 
 ---
