@@ -125,7 +125,7 @@ while (vishnu.isImproving()) {
 ## 🏆 **Professional Achievements **
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishnu-Varthan1&theme=darkhub&margin-w=10&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishnu-Varthan1&theme=algolia&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ---
