@@ -111,6 +111,10 @@ while (vishnu.isImproving()) {
 </p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00E5FF?style=for-the-badge&logo=github" />
+</p>
+
 
 ## 📊 **GitHub Analytics — Dark Mode Optimized**
 
