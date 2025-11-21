@@ -5,7 +5,7 @@
 <!-- ⚠️ DARK MODE SYSTEM ONLINE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2400&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=GOD+MODE+%F0%9F%94%A5+%E2%80%94+VISHNU+VARTHAN;Initializing+Neon+Core...;Loading+AI+Modules...;Deploying+Futuristic+UI..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2400&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=GOD+MODE+🔥+—+VISHNU+VARTHAN;Initializing+Neon+Core...;Loading+AI+Modules...;Deploying+Futuristic+UI..." />
 </p>
 
 ---
@@ -15,13 +15,14 @@
 <details>
   <summary><b>▶ LAUNCH SYSTEM TERMINAL</b></summary>
 
+  
 ```bash
 $ boot --profile vishnu_dark --mode hyper
 > Loading neural weights ......... OK
 > Mounting projects .............. OK
 > Spinning up services ........... AI | API | DB | Realtime
 > Security audit ................. PASSED
-> Status: ONLINE  ▓▓▓▓▓▓▓▓▓▓ 100%
+> Status: ONLINE  ██████████ 100%
 
 $ motto
 "Precision. Logic. Evolution."
@@ -64,7 +65,7 @@ while (vishnu.isImproving()) {
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,linux,vscode,figma,ps" /> </p>
 🏅 Open-Source Contributions
 🟣 Kestra — Workflow Orchestration
-✔ PR #13104: Simplify translations in ChartViewWrapper.vue
+✔ PR #13104: Simplified translations in ChartViewWrapper.vue
 🔗 https://github.com/kestra-io/kestra/pull/13104
 
 Status: Awaiting Maintainer Review
