@@ -1,21 +1,31 @@
+🔥 **Here is your FULLY UPGRADED README — Dark Futuristic + Professional + Clean + Optimized**
+I improved structure, clarity, removed duplicates, added Open-Source section (Kestra PR), added SEO, and made everything recruiter-friendly while keeping your unique “Neon Futuristic” vibe.
 
+---
 
+# ⚡ **🔥 DARK FUTURISTIC README — UPGRADED VERSION**
+
+### ✨ Copy-paste this into your `README.md` (final polished version)
+
+---
+
+````md
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00E5FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Real+Estate+Tech+Learner;Cybersecurity+%7C+Problem+Solver;Dark+Futuristic+Professional+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00E5FF&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Real+Estate+Tech+Learner;Cybersecurity+%7C+Problem+Solver;Dark+Futuristic+Professional+Profile" />
 </p>
 
-<!-- 🛑 GOD MODE ACTIVATED -->
-
-## 
+<!-- ⚠️ DARK MODE SYSTEM ONLINE -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2400&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=GOD+MODE+%F0%9F%94%A5+%E2%80%94+VISHNU+VARTHAN;Initializing+Neon+Core...;Loading+AI+Modules...;Deploying+Futuristic+UI..." />
 </p>
 
-### 🖥️ Futuristic Terminal (Click to open)
+---
+
+### 🖥️ Futuristic Terminal (Tap to Expand)
 
 <details>
-  <summary><b>▶ LAUNCH TERMINAL</b></summary>
+  <summary><b>▶ LAUNCH SYSTEM TERMINAL</b></summary>
 
 ```bash
 $ boot --profile vishnu_dark --mode hyper
@@ -32,56 +42,35 @@ $ next-steps
 1) Ship features that matter
 2) Learn aggressively
 3) Scale with discipline
-```
+````
 
 </details>
+
+---
 
 ### 🧬 Neon Wireframe Signature
 
 <p align="center">
-  <svg width="720" height="150" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#00E5FF"/>
-        <stop offset="100%" stop-color="#3B82F6"/>
-      </linearGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-          font-family="'Segoe UI', Roboto, monospace" font-size="64"
-          fill="none" stroke="url(#g)" stroke-width="2.5" filter="url(#glow)">
-      VISHNU  VARTHAN
-    </text>
-    <g stroke="url(#g)" stroke-opacity="0.35">
-      <path d="M20 200 L1180 200"/>
-      <path d="M80 210 L160 140 L240 210 L320 140 L400 210 L480 140 L560 210 L640 140 L720 210 L800 140 L880 210 L960 140 L1040 210 L1120 140"/>
-    </g>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0F1F&height=120&section=header&text=VISHNU%20VARTHAN&fontSize=48&fontColor=00E5FF&animation=fadeIn" />
 </p>
 
 ---
 
-# 🛰️ **Vishnu Varthan — Dark Futuristic Developer Profile**
+# 🛰️ **Vishnu Varthan — Dark Futuristic Developer**
 
 ```ts
 // VishnuDarkMode.ts — Precision. Logic. Evolution.
 while (vishnu.isImproving()) {
-  vishnu.learn();            // Deep focus + mastery.
-  vishnu.develop();          // Building systems with purpose.
-  vishnu.analyze();          // Always questioning, always refining.
+  vishnu.learn();
+  vishnu.develop();
+  vishnu.analyze();
 
   if (obstacles.detected()) {
-     vishnu.adapt();         // Strategic response.
-     vishnu.elevate();       // Rise above limitations.
+    vishnu.adapt();
+    vishnu.elevate();
   }
 
-  vishnu.execute();          // Deliver with excellence.
+  vishnu.execute();
 }
 ```
 
@@ -89,10 +78,11 @@ while (vishnu.isImproving()) {
 
 ## 👤 **About Me — Precision & Vision**
 
-* 🎓 BCA Student mastering High-Level Development & AI.
-* 🧠 Focused on building *scalable, intelligent systems*.
-* 🛰 Real Estate tech transformation enthusiast.
-* ⚡ High discipline, high clarity, high ambition.
+* 🎓 BCA Student mastering High-Level Development & AI
+* 🤖 Passionate about AI tools, ML reasoning, and data-driven systems
+* 🏗 Building scalable full-stack applications using modern tech
+* 🛰 Transforming traditional real estate with digital innovation
+* ⚡ High discipline, high clarity, high ambition
 
 ---
 
@@ -104,6 +94,21 @@ while (vishnu.isImproving()) {
 
 ---
 
+# 🏅 **Open-Source Contributions**
+
+### 🟣 **Kestra — Open Source Workflow Orchestration**
+
+* ✔ **PR #13104:** Simplify translations in `ChartViewWrapper.vue`
+  🔗 [https://github.com/kestra-io/kestra/pull/13104](https://github.com/kestra-io/kestra/pull/13104)
+* Status: **Awaiting Maintainer Review**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00E5FF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Kestra-Contributor-4F46E5?style=for-the-badge&logo=apache-spark&logoColor=white" />
+</p>
+
+---
+
 ## 🧭 **3D GitHub Contribution Overview**
 
 <p align="center">
@@ -111,16 +116,6 @@ while (vishnu.isImproving()) {
 </p>
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00E5FF?style=for-the-badge&logo=github" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kestra-Open%20Source%20Contributor-4F46E5?style=for-the-badge&logo=apache-spark&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kestra-Open%20Source%20Contributor-4F46E5?style=for-the-badge&logo=apache-spark&logoColor=white" />
-</p>
-
 
 ## 📊 **GitHub Analytics — Dark Mode Optimized**
 
@@ -132,7 +127,7 @@ while (vishnu.isImproving()) {
 
 ---
 
-## 🏆 **Professional Achievements **
+## 🏆 **Professional Achievements**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vishnu-Varthan1&theme=algolia&no-frame=true&no-bg=true&margin-w=5" />
@@ -145,13 +140,6 @@ while (vishnu.isImproving()) {
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=your_spotify_id&cover_image=true&theme=dark&show_offline=true&background_color=0D1117" />
 </p>
-
----
-
-
----
-
-
 
 ---
 
@@ -174,3 +162,11 @@ while (vishnu.isImproving()) {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=150&section=footer&color=0A0F1F" />
 </p>
+
+<!-- SEO BOOST -->
+
+<!-- Vishnu Varthan, Full-Stack Developer, AI Developer, Kestra Contributor, JavaScript, TypeScript, Python, React, Node.js, MongoDB, Cybersecurity, Machine Learning -->
+
+```
+
+---
