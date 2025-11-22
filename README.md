@@ -50,9 +50,6 @@ while (vishnu.isImproving()) {
 
 ### 🟣 **Kestra — Workflow Orchestration**
 
-* ✔ **PR #13104:** Simplified translations in `ChartViewWrapper.vue`
-  🔗 [https://github.com/kestra-io/kestra/pull/13104](https://github.com/kestra-io/kestra/pull/13104)
-* Status: **Awaiting Maintainer Review**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-00E5FF?style=for-the-badge&logo=github" />
