@@ -40,9 +40,7 @@ while (vishnu.isImproving()) {
 
 ## 🛠 **Tech Stack — Optimized for Performance**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,linux,vscode,figma,ps" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i= cpp,java,python, js,ts, react,redux,nextjs, nodejs,express, mongodb,mysql,redis, html,css,tailwind, git,github, linux,bash, docker,aws, postman, vite,webpack,npm,yarn, vscode, figma,ps" /> </p>
 
 ---
 
