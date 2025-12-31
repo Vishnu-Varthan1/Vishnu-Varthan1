@@ -67,31 +67,6 @@ while (vishnu.isImproving()) {
 
 ---
 
-## 📊 **GitHub Analytics — Dark Mode Optimized**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Varthan1&layout=compact&theme=github_dark" height="150" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Vishnu-Varthan1&theme=github-dark" height="160" />
-</p>
-
----
-
-## 🏆 **Professional Achievements**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishnu-Varthan1&theme=algolia&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-## 🎧 **Now Playing — Spotify (Dark Edition)**
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=your_spotify_id&cover_image=true&theme=dark&show_offline=true&background_color=0D1117" />
-</p>
-
----
 
 ## 🔗 **Connect With Me — Professional Socials**
 
