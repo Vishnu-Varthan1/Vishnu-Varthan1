@@ -6,12 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0F1F&height=120&section=header&text=VISHNU%20VARTHAN&fontSize=48&fontColor=00E5FF&animation=fadeIn" />
 </p>
 
----
+https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966
 
 # 🛰️ **Vishnu Varthan — Dark Futuristic Developer**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
 
 ```ts
 // VishnuDarkMode.ts — Precision. Logic. Evolution.
